@@ -18,3 +18,4 @@ This repository contains my certificates from the courses I have taken on Micros
 | 8 | Explore roles and responsibilities in the world of data | [Link](https://learn.microsoft.com/en-us/) | [Link](https://learn.microsoft.com/en-us/users/kannanjayachandran-2364/achievements) | Microsoft |
 | 9 | Build and operate machine learning solutions with Azure Machine Learning | [Link](https://learn.microsoft.com/en-us/) | [Link](https://learn.microsoft.com/en-us/users/kannanjayachandran-2364/achievements) | Microsoft |
 | 10 | Microsoft Azure AI Fundamentals: Explore visual tools for machine learning | [Link](https://learn.microsoft.com/en-us/) | [Link](https://learn.microsoft.com/en-us/users/kannanjayachandran-2364/achievements) | Microsoft |
+| 11 | Microsoft Azure AI Fundamentals: Get started with artificial intelligence | [Link](https://learn.microsoft.com/en-us/) | [Link](https://learn.microsoft.com/en-us/users/kannanjayachandran-2364/achievements) | Microsoft |
