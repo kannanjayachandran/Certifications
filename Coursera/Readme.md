@@ -1,8 +1,11 @@
+<div align="center">
+
 # Coursera Certificates
 
-This repository contains my certificates from the courses I have taken on Coursera. I have also included the links to the courses and the certificates. This includes both individual courses and the Specializations.
+</div>
 
-## Certifications
+
+
 
 | Course Name | Course Link | Issued By | Certificate Link |
 | --- | --- | --- | --- |
