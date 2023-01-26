@@ -1,4 +1,8 @@
+<div align="center">
+
 # Microsoft Certificates
+
+</div>
 
 This repository contains my certificates from the courses I have taken on Microsoft. This includes Microsoft Azure Certifications, Microsoft Certified certifications, and Microsoft Professional Program Certifications. The certificates are in PDF format and are named according to the following format:
 
