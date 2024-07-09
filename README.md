@@ -16,9 +16,10 @@ This repository contains all the certificates I have earned from various MOOCs, 
 | 10 | Train and evaluate regression models | Microsoft | [Certificate](./Microsoft/Certificate03.pdf) |
 | 11 | Train and evaluate classification models | Microsoft | [Certificate](./Microsoft/Certificate04.pdf) |
 | 12 | Train and evaluate clustering models | Microsoft | [Certificate](./Microsoft/Certificate05.pdf) |
-| 13 | Microsoft Student Summit 2021 | [Link](./Readme.md) | [Certificate](./Microsoft/Certificate06.pdf) |
+| 13 | Microsoft Student Summit 2021 | Microsoft | [Certificate](./Microsoft/Certificate06.pdf) |
 | 14 | Create Machine Learning Models| Microsoft | [Certificate](./Microsoft/Certificate07.pdf) |
 | 15 | Explore roles and responsibilities in the world of data | Microsoft | [Certificate](./Microsoft/Certificate08.pdf) |
 | 16 | Build and operate machine learning solutions with Azure Machine Learning | Microsoft | [Certificate](./Microsoft/Certificate09.pdf) |
 | 17 | Microsoft Azure AI Fundamentals: Explore visual tools for machine learning | Microsoft | [Certificate](./Microsoft/Certificate10.pdf) |
 | 18 | Microsoft Azure AI Fundamentals: Get started with artificial intelligence | Microsoft | [Certificate](./Microsoft/Certificate11.pdf) |
+| 19 | AWS machine learning Fundamentals | Udacity - AWS | [Certificate](./Udacity/Certificate01.pdf) |
