@@ -12,24 +12,13 @@ This repository contains all the certificates I have earned from various MOOCs, 
 | 6 | Building Batch Data Pipelines on Google Cloud | Coursera - Google | [Certificate](./Coursera/6.pdf) |
 | 7 | Data Engineering, Big Data, and Machine learning on GCP | Coursera - Google | [Certificate](./Coursera/7.pdf) |
 | 8 | Introduction to Git | Microsoft | [Certificate](./Microsoft/Certificate01.pdf) |
-
-
 | 9 | Explore and analyze data with Python | Microsoft | [Certificate](./Microsoft/Certificate02.pdf) |
-
 | 10 | Train and evaluate regression models | Microsoft | [Certificate](./Microsoft/Certificate03.pdf) |
-
 | 11 | Train and evaluate classification models | Microsoft | [Certificate](./Microsoft/Certificate04.pdf) |
-
 | 12 | Train and evaluate clustering models | Microsoft | [Certificate](./Microsoft/Certificate05.pdf) |
-
 | 13 | Microsoft Student Summit 2021 | [Link](./Readme.md) | [Certificate](./Microsoft/Certificate06.pdf) |
-
 | 14 | Create Machine Learning Models| Microsoft | [Certificate](./Microsoft/Certificate07.pdf) |
-
 | 15 | Explore roles and responsibilities in the world of data | Microsoft | [Certificate](./Microsoft/Certificate08.pdf) |
-
 | 16 | Build and operate machine learning solutions with Azure Machine Learning | Microsoft | [Certificate](./Microsoft/Certificate09.pdf) |
-
 | 17 | Microsoft Azure AI Fundamentals: Explore visual tools for machine learning | Microsoft | [Certificate](./Microsoft/Certificate10.pdf) |
-
 | 18 | Microsoft Azure AI Fundamentals: Get started with artificial intelligence | Microsoft | [Certificate](./Microsoft/Certificate11.pdf) |
